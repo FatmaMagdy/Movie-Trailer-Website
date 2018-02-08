@@ -44,7 +44,7 @@ frozen = media.Movie("Frozen",
 """"creating an array to hold up all of movies """
 movies = [toy_story, despicable_me, cars, finding_nemo, moana, frozen]
 
-"""running my website passing the movies list""""
+"""running my website passing the movies list"""
 fresh_tomatoes.open_movies_page(movies)
 
 
