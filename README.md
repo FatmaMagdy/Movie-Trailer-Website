@@ -8,8 +8,9 @@ These instructions will get you a copy of the project up and running on your loc
 
 # Installing
 
-[install python]
+> install python
 
 
-#running
+# Running
+
 To get this project running you will need to have a python environment and simply run the entertainment_center.py
